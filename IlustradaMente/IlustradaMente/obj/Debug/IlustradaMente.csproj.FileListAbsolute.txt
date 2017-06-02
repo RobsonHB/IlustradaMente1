@@ -1,0 +1,9 @@
+E:\Executaveis liberados\IlustradaMente\IlustradaMente\bin\Debug\IlustradaMente.exe.config
+E:\Executaveis liberados\IlustradaMente\IlustradaMente\bin\Debug\IlustradaMente.exe
+E:\Executaveis liberados\IlustradaMente\IlustradaMente\bin\Debug\IlustradaMente.pdb
+E:\Executaveis liberados\IlustradaMente\IlustradaMente\obj\Debug\IlustradaMente.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\IlustradaMente\IlustradaMente\obj\Debug\IlustradaMente.Form1.resources
+E:\Executaveis liberados\IlustradaMente\IlustradaMente\obj\Debug\IlustradaMente.Properties.Resources.resources
+E:\Executaveis liberados\IlustradaMente\IlustradaMente\obj\Debug\IlustradaMente.csproj.GenerateResource.Cache
+E:\Executaveis liberados\IlustradaMente\IlustradaMente\obj\Debug\IlustradaMente.exe
+E:\Executaveis liberados\IlustradaMente\IlustradaMente\obj\Debug\IlustradaMente.pdb
