@@ -7,3 +7,15 @@ E:\Executaveis liberados\IlustradaMente\IlustradaMente\obj\Debug\IlustradaMente.
 E:\Executaveis liberados\IlustradaMente\IlustradaMente\obj\Debug\IlustradaMente.csproj.GenerateResource.Cache
 E:\Executaveis liberados\IlustradaMente\IlustradaMente\obj\Debug\IlustradaMente.exe
 E:\Executaveis liberados\IlustradaMente\IlustradaMente\obj\Debug\IlustradaMente.pdb
+C:\Users\Robson\Desktop\IlustradaMente1-master (1)\IlustradaMente1-master\IlustradaMente\IlustradaMente\bin\Debug\IlustradaMente.exe.config
+C:\Users\Robson\Desktop\IlustradaMente1-master (1)\IlustradaMente1-master\IlustradaMente\IlustradaMente\obj\Debug\IlustradaMente.exe
+C:\Users\Robson\Desktop\IlustradaMente1-master (1)\IlustradaMente1-master\IlustradaMente\IlustradaMente\obj\Debug\IlustradaMente.pdb
+C:\Users\Robson\Desktop\IlustradaMente1-master (1)\IlustradaMente1-master\IlustradaMente\IlustradaMente\bin\Debug\IlustradaMente.exe
+C:\Users\Robson\Desktop\IlustradaMente1-master (1)\IlustradaMente1-master\IlustradaMente\IlustradaMente\bin\Debug\IlustradaMente.pdb
+C:\Users\Robson\Desktop\IlustradaMente1-master (1)\IlustradaMente1-master\IlustradaMente\IlustradaMente\obj\Debug\IlustradaMente.csprojResolveAssemblyReference.cache
+C:\Users\Robson\Desktop\IlustradaMente1-master (1)\IlustradaMente1-master\IlustradaMente\IlustradaMente\obj\Debug\IlustradaMente.Form1.resources
+C:\Users\Robson\Desktop\IlustradaMente1-master (1)\IlustradaMente1-master\IlustradaMente\IlustradaMente\obj\Debug\IlustradaMente.Properties.Resources.resources
+C:\Users\Robson\Desktop\IlustradaMente1-master (1)\IlustradaMente1-master\IlustradaMente\IlustradaMente\obj\Debug\IlustradaMente.csproj.GenerateResource.Cache
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\IlustradaMente\IlustradaMente\bin\Debug\IlustradaMente.exe.config
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\IlustradaMente\IlustradaMente\obj\Debug\IlustradaMente.exe
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\IlustradaMente\IlustradaMente\obj\Debug\IlustradaMente.pdb
